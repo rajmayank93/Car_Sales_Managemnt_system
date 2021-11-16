@@ -5,7 +5,7 @@ using namespace std;
 class ShowRoom{
     int showroomID;
     public:
-    
+    int num;//lol
 
 
 
