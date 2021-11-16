@@ -6,6 +6,7 @@ class ShowRoom{
     int showroomID;
     public:
     int num;//lol
+    int num1;
 
 
 
